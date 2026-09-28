@@ -6,6 +6,7 @@ public class BibaErBeti {
 		System.out.println("Biba Er Beti");
 		System.out.println("Paso 2");
 		System.out.println("Paso 3");
+		System.out.println("Paso 4");
 	}
 	
 	
